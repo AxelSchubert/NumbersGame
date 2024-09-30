@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersGame", "NumbersGame\NumbersGame.csproj", "{57AE01A5-1C8C-4DA8-B522-4768582C2B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AE01A5-1C8C-4DA8-B522-4768582C2B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE01A5-1C8C-4DA8-B522-4768582C2B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE01A5-1C8C-4DA8-B522-4768582C2B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE01A5-1C8C-4DA8-B522-4768582C2B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
